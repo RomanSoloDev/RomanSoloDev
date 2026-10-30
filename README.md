@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer sharing my programming journey & learnings in the world of tech<br>Currently Studying Computer Science at Teesside University, London.<br>Passionate about C++ & Python<br><br>Currently learning: Python + CustomTKinter<br>Current Projects: Python based Calendar App & C++ Physics Game Engine
+Aspiring Software Engineer sharing my programming journey & learnings in the world of tech<br>Currently Studying Computer Science at Teesside University, London.<br>Passionate about C++ & Python<br><br>Currently learning: Python + CustomTKinter<br>Current Projects: Workflow Toolkit & C++ Physics Game Engine
 
 
 ## 🌐 Socials:
